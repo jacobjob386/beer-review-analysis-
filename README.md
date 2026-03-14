@@ -1,4 +1,4 @@
-Beer Review Analysis and Recommendation System
+# Beer Review Analysis and Recommendation System
 This project analyzes a large beer review dataset to understand how different sensory attributes and reviewer behaviors influence beer ratings. The project also builds a simple machine learning model to predict beer ratings and a recommendation system that suggests similar beers based on flavor characteristics.
 
 The entire analysis, visualizations, modeling, and recommendation system are implemented in beer_review.ipynb, where all project objectives are organized step by step.
